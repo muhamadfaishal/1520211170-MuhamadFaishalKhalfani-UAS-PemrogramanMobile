@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "331894919295",
+    "firebase_url": "https://login-flutter-29e72-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "login-flutter-29e72",
+    "storage_bucket": "login-flutter-29e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331894919295:android:c30b30fcdd3bb6a3776f4a",
+        "android_client_info": {
+          "package_name": "com.example.earthquake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp21l7RSwmKaXUYhfrmjOEY52ggTv2Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331894919295:android:3c0952cc0952bb88776f4a",
+        "android_client_info": {
+          "package_name": "com.example.gempa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp21l7RSwmKaXUYhfrmjOEY52ggTv2Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331894919295:android:54f35b81c09c2456776f4a",
+        "android_client_info": {
+          "package_name": "com.example.quaketrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp21l7RSwmKaXUYhfrmjOEY52ggTv2Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
